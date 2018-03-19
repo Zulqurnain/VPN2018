@@ -6,7 +6,6 @@ import android.os.Environment;
 import java.io.File;
 
 /**
- * 清除缓存 数据库等
  * Created by Administrator on 2016/10/10.
  */
 
